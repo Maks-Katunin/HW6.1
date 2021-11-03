@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW6.1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="about_me">Willard Carroll Smith Jr. \n (born September 25, 1968) \n is an American actor, rapper, and film producer.</string>
+    <string name="following">162 \n Folloving</string>
+    <string name="followers">834 \n Followers</string>
+    <string name="post">54 \n post</string>
+</resources>
